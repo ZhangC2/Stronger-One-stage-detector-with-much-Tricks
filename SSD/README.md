@@ -1,4 +1,4 @@
-# Stronger SSD with much Tricks
+# Stronger SSD with many Tricks
 ## Tricks
 This repo was mainly used the following tricks.
 
