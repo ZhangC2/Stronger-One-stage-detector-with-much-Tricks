@@ -1,4 +1,4 @@
-# Stronger One-stage detector with much Tricks
+# Stronger One-stage detector with many Tricks
 
 This repo was inspired by the paper [Bag of Freebies for Training Object Detection Neural Networks](https://arxiv.org/pdf/1902.04103).
 
